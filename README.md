@@ -59,7 +59,7 @@ Ich arbeite gerne mit modernen Technologien und entwickle effiziente, robuste LÃ
 
 ## ğŸ“« Kontakt
 <p>
-  <a href="mailto:deine.email@example.com">
+  <a href="mailto:a.batash1994@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
