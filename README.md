@@ -25,7 +25,17 @@ Meine Leidenschaft liegt darin, moderne Technologien einzusetzen, um **effizient
 
 ### 👨‍💻 Programmiersprachen
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,go&perline=4" />
+  <img src="https://skillicons.dev/icons?i=python,go,java&perline=4" />
+</p>
+
+### ⚙️ Tools & Automation
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ansible&perline=4" />
+</p>
+
+<p align="center">
+  <!-- Proxmox hat kein offizielles Icon bei skillicons -->
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white"/>
 </p>
 
 ---
@@ -34,7 +44,8 @@ Meine Leidenschaft liegt darin, moderne Technologien einzusetzen, um **effizient
 - ☁️ Cloud Architektur mit AWS & Azure  
 - 🐳 Containerisierung mit Docker  
 - ⚙️ Orchestrierung mit Kubernetes  
-- 🚀 Backend Entwicklung mit Go & Python  
+- 🔄 Automatisierung mit Ansible  
+- 🚀 Backend Entwicklung mit Go, Python & Java  
 
 ---
 
