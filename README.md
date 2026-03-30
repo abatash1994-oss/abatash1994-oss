@@ -1,4 +1,4 @@
-# 👋 Hallo, ich bin [Abdulmonem Batash]
+# 👋 Hallo, ich bin Abdulmonem Batash
 
 <div align="center">
 
