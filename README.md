@@ -2,31 +2,39 @@
 
 <div align="center">
 
-### 💻 Informatiker | Cloud & Backend Developer
+### 💻 Informatiker | Cloud & Backend Developer ☁️
 
-![Profile Views](https://komarev.com/ghpvc/?username=abatash1994-oss&color=blue)
+<img src="https://komarev.com/ghpvc/?username=abatash1994-oss&color=0e75b6&style=flat" alt="profile views"/>
 
 </div>
 
 ---
 
 ## 🚀 Über mich
-Ich bin ein Informatiker mit Fokus auf **Cloud Computing**, **Backend-Entwicklung** und **skalierbare Systeme**.  
-Ich arbeite gerne mit modernen Technologien und entwickle effiziente, robuste Lösungen.
+Ich bin ein engagierter Informatiker mit Fokus auf **Cloud Computing**, **Backend-Entwicklung** und **skalierbare Systeme**.  
+Meine Leidenschaft liegt darin, moderne Technologien einzusetzen, um **effiziente, robuste und skalierbare Lösungen** zu entwickeln.
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### ☁️ Cloud & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes&perline=4" />
 </p>
 
 ### 👨‍💻 Programmiersprachen
-<p>
-  <img src="https://skillicons.dev/icons?i=python,go" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,go&perline=4" />
 </p>
+
+---
+
+## 🔥 Aktuelle Schwerpunkte
+- ☁️ Cloud Architektur mit AWS & Azure  
+- 🐳 Containerisierung mit Docker  
+- ⚙️ Orchestrierung mit Kubernetes  
+- 🚀 Backend Entwicklung mit Go & Python  
 
 ---
 
@@ -34,39 +42,33 @@ Ich arbeite gerne mit modernen Technologien und entwickle effiziente, robuste L�
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abatash1994-oss&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DEIN_USERNAME&layout=compact&theme=tokyonight)
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=abatash1994-oss&show_icons=true&theme=tokyonight" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abatash1994-oss&layout=compact&theme=tokyonight" />
 
 </div>
 
 ---
 
-## 🔥 Aktuelle Schwerpunkte
-- Cloud Architektur (AWS & Azure)
-- Containerisierung mit Docker
-- Orchestrierung mit Kubernetes
-- Backend Entwicklung mit Go & Python
-
----
-
 ## 📂 Projekte
-- 🔹 Cloud-native Anwendungen  
-- 🔹 Microservices mit Kubernetes  
-- 🔹 Automatisierung & DevOps Projekte  
+🚧 *Einige meiner Projekte folgen bald – ich arbeite aktuell an spannenden Cloud- & DevOps-Projekten.*
 
 ---
 
 ## 📫 Kontakt
-<p>
-  <a href="mailto:a.batash1994@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+
+<div align="center">
+
+<a href="mailto:a.batash1994@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
+
+✨ *"Building scalable systems & learning something new every day."*  
 
 ⭐️ Danke fürs Vorbeischauen!
 
