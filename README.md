@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 💻 Informatiker | Cloud & Backend Developer ☁️
+### 💻 Softwareentwickler | Backend Engineer | Cloud Enthusiast ☁️
 
 <img src="https://komarev.com/ghpvc/?username=abatash1994-oss&color=0e75b6&style=flat" alt="profile views"/>
 
@@ -11,41 +11,63 @@
 ---
 
 ## 🚀 Über mich
-Ich bin ein engagierter Informatiker mit Fokus auf **Cloud Computing**, **Backend-Entwicklung** und **skalierbare Systeme**.  
-Meine Leidenschaft liegt darin, moderne Technologien einzusetzen, um **effiziente, robuste und skalierbare Lösungen** zu entwickeln.
+Ich bin ein leidenschaftlicher **Softwareentwickler** mit Fokus auf **Backend-Systeme**, **API-Entwicklung** und **skalierbare Architekturen**.  
+Ich entwickle robuste Anwendungen und setze moderne Technologien ein, um **performante und wartbare Softwarelösungen** zu bauen.
+
+---
+
+## 🧠 Kompetenzen
+
+- 🏗️ Softwarearchitektur & Design Patterns  
+- 🔌 REST API & Microservices Entwicklung  
+- 🗄️ Datenbankdesign (SQL & NoSQL)  
+- ⚡ Performance-Optimierung & Skalierung  
+- 🧪 Testing (Unit & Integration Tests)  
+- 🔄 CI/CD & Automatisierung  
+- 🔐 Sicherheit & Best Practices  
 
 ---
 
 ## 🛠️ Tech Stack
-
-### ☁️ Cloud & DevOps
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes&perline=4" />
-</p>
 
 ### 👨‍💻 Programmiersprachen
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,go,java&perline=4" />
 </p>
 
-### ⚙️ Tools & Automation
+### ⚙️ Backend & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ansible&perline=4" />
+  <img src="https://skillicons.dev/icons?i=fastapi,spring,nodejs&perline=4" />
+</p>
+
+### 🗄️ Datenbanken
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&perline=4" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes&perline=4" />
+</p>
+
+### 🔧 Tools & Automation
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,linux,ansible,githubactions&perline=4" />
 </p>
 
 <p align="center">
-  <!-- Proxmox hat kein offizielles Icon bei skillicons -->
   <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white"/>
 </p>
 
 ---
 
 ## 🔥 Aktuelle Schwerpunkte
-- ☁️ Cloud Architektur mit AWS & Azure  
-- 🐳 Containerisierung mit Docker  
-- ⚙️ Orchestrierung mit Kubernetes  
-- 🔄 Automatisierung mit Ansible  
-- 🚀 Backend Entwicklung mit Go, Python & Java  
+- 🚀 Entwicklung von skalierbaren Backend-Systemen  
+- 🔌 API-Design mit FastAPI & Spring Boot  
+- 🐳 Containerisierung & Deployment mit Docker  
+- ☸️ Kubernetes für Orchestrierung  
+- ☁️ Cloud-native Anwendungen (AWS & Azure)  
+- 🔄 CI/CD Pipelines & Automatisierung  
 
 ---
 
@@ -61,7 +83,13 @@ Meine Leidenschaft liegt darin, moderne Technologien einzusetzen, um **effizient
 ---
 
 ## 📂 Projekte
-🚧 *Einige meiner Projekte folgen bald – ich arbeite aktuell an spannenden Cloud- & DevOps-Projekten.*
+
+🔹 **Backend API Systeme** – REST APIs mit hoher Performance  
+🔹 **Cloud Deployments** – Skalierbare Anwendungen in AWS & Azure  
+🔹 **Automatisierung** – Infrastructure as Code & CI/CD Pipelines  
+🔹 **Microservices Projekte** – Verteilte Systeme mit Docker & Kubernetes  
+
+🚧 *Weitere Projekte folgen – ich arbeite aktuell an spannenden Software- & Cloud-Projekten.*
 
 ---
 
@@ -79,7 +107,7 @@ Meine Leidenschaft liegt darin, moderne Technologien einzusetzen, um **effizient
 
 <div align="center">
 
-✨ *"Building scalable systems & learning something new every day."*  
+✨ *"Clean code. Scalable systems. Continuous learning."*  
 
 ⭐️ Danke fürs Vorbeischauen!
 
