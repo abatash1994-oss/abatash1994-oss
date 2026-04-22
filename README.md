@@ -2,94 +2,105 @@
 
 <div align="center">
 
-### 💻 Softwareentwickler | Backend Engineer | Cloud Enthusiast ☁️
+### 💻 Softwareentwickler (Backend) | Cloud & DevOps Engineer ☁️
 
-<img src="https://komarev.com/ghpvc/?username=abatash1994-oss&color=0e75b6&style=flat" alt="profile views"/>
+📍 Deutschland  
+📧 a.batash1994@gmail.com  
+📞 +4915254142088 
 
 </div>
 
 ---
 
-## 🚀 Über mich
-Ich bin ein leidenschaftlicher **Softwareentwickler** mit Fokus auf **Backend-Systeme**, **API-Entwicklung** und **skalierbare Architekturen**.  
-Ich entwickle robuste Anwendungen und setze moderne Technologien ein, um **performante und wartbare Softwarelösungen** zu bauen.
+## 🚀 Profil
+
+Ich bin ein Softwareentwickler mit Schwerpunkt auf **Backend-Entwicklung**, **Cloud-Technologien** und **skalierbaren Systemen**.
+
+Mein Fokus liegt auf der Entwicklung von **performanten APIs**, **robusten Microservices** und der Bereitstellung von Anwendungen in **Cloud-Umgebungen**.
+
+Ich arbeite strukturiert, lege Wert auf **Clean Code**, **Testing** und **Automatisierung** und entwickle Lösungen, die auch in Produktionsumgebungen zuverlässig funktionieren.
 
 ---
 
-## 🧠 Kompetenzen
+## 🧠 Fachliche Schwerpunkte
 
-- 🏗️ Softwarearchitektur & Design Patterns  
-- 🔌 REST API & Microservices Entwicklung  
-- 🗄️ Datenbankdesign (SQL & NoSQL)  
-- ⚡ Performance-Optimierung & Skalierung  
-- 🧪 Testing (Unit & Integration Tests)  
-- 🔄 CI/CD & Automatisierung  
-- 🔐 Sicherheit & Best Practices  
+- Backend-Entwicklung mit **Go, Python, Java**
+- Design und Implementierung von **REST APIs & Microservices**
+- Datenbankdesign mit **PostgreSQL, MongoDB, Redis**
+- Containerisierung mit **Docker**
+- Orchestrierung mit **Kubernetes**
+- Cloud-Plattformen: **AWS & Azure**
+- Infrastructure as Code & Automatisierung (**Ansible**)
+- CI/CD Pipelines (**GitHub Actions**)
+- Monitoring & Observability (**Prometheus, Grafana**)
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technologien
 
 ### 👨‍💻 Programmiersprachen
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,java&perline=4" />
+  <img src="https://skillicons.dev/icons?i=python,go,java" />
 </p>
 
-### ⚙️ Backend & Frameworks
+### ⚙️ Backend & APIs
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,spring,nodejs&perline=4" />
+  <img src="https://skillicons.dev/icons?i=fastapi,spring,nodejs" />
 </p>
 
 ### 🗄️ Datenbanken
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&perline=4" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
 </p>
 
 ### ☁️ Cloud & DevOps
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes&perline=4" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes" />
 </p>
 
-### 🔧 Tools & Automation
+### 📊 Monitoring & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,linux,ansible,githubactions&perline=4" />
+  <img src="https://skillicons.dev/icons?i=git,linux,githubactions" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ansible-Automation-red?style=for-the-badge&logo=ansible"/>
+  <img src="https://img.shields.io/badge/Prometheus-Monitoring-orange?style=for-the-badge&logo=prometheus"/>
+  <img src="https://img.shields.io/badge/Grafana-Dashboard-yellow?style=for-the-badge&logo=grafana"/>
+  <img src="https://img.shields.io/badge/Proxmox-Virtualization-E57000?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🔥 Aktuelle Schwerpunkte
-- 🚀 Entwicklung von skalierbaren Backend-Systemen  
-- 🔌 API-Design mit FastAPI & Spring Boot  
-- 🐳 Containerisierung & Deployment mit Docker  
-- ☸️ Kubernetes für Orchestrierung  
-- ☁️ Cloud-native Anwendungen (AWS & Azure)  
-- 🔄 CI/CD Pipelines & Automatisierung  
+## 📂 Projekte 
+
+🔹 **Microservices Backend System**  
+- Entwicklung verteilter Services mit Docker & Kubernetes  
+- REST APIs mit hoher Performance  
+- Integration von Monitoring mit Prometheus & Grafana  
+
+🔹 **Cloud Deployment Projekt (AWS/Azure)**  
+- Deployment skalierbarer Anwendungen  
+- Nutzung von CI/CD Pipelines  
+- Infrastrukturautomatisierung  
+
+🔹 **Automatisierungsprojekt (Ansible)**  
+- Automatisierte Server-Konfiguration  
+- Deployment-Prozesse optimiert  
+- Wiederverwendbare Playbooks  
+
+🚧 Weitere Projekte in Entwicklung – Fokus auf produktionsnahe Systeme.
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
+## 🎯 Ziel
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=abatash1994-oss&show_icons=true&theme=tokyonight" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abatash1994-oss&layout=compact&theme=tokyonight" />
+Ich suche eine Position als:
 
-</div>
+➡️ **Backend Developer / Software Engineer / Cloud Engineer**
 
----
-
-## 📂 Projekte
-
-🔹 **Backend API Systeme** – REST APIs mit hoher Performance  
-🔹 **Cloud Deployments** – Skalierbare Anwendungen in AWS & Azure  
-🔹 **Automatisierung** – Infrastructure as Code & CI/CD Pipelines  
-🔹 **Microservices Projekte** – Verteilte Systeme mit Docker & Kubernetes  
-
-🚧 *Weitere Projekte folgen – ich arbeite aktuell an spannenden Software- & Cloud-Projekten.*
+in Deutschland, in der ich meine Kenntnisse in **skalierbaren Systemen und Cloud-Technologien** einsetzen und weiterentwickeln kann.
 
 ---
 
@@ -101,14 +112,16 @@ Ich entwickle robuste Anwendungen und setze moderne Technologien ein, um **perfo
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<a href="tel:+49XXXXXXXXXX">
+  <img src="https://img.shields.io/badge/Telefon-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
 </div>
 
 ---
 
 <div align="center">
 
-✨ *"Clean code. Scalable systems. Continuous learning."*  
-
-⭐️ Danke fürs Vorbeischauen!
+✨ *"Clean code. Scalable systems. Reliable software."*  
 
 </div>
